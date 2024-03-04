@@ -1,0 +1,33 @@
+#Num_a, #Num_b {
+    color: blue;
+    padding: 8px;
+    align-items: center;
+    
+    }
+
+button {
+    padding: 8px;
+    align-items: center;
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+form   {
+    color:blue;
+    align-items: center;
+}
+
+.container {
+    padding: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+::placeholder{
+    color: black;
+}
